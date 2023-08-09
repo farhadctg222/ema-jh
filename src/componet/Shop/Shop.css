@@ -1,0 +1,14 @@
+.shop-container{
+    display: flex;
+}
+.productjs{
+    border-right: 1px solid black;
+    width: 70%;
+}
+.product-card{
+    display: flex;
+}
+.btn{
+    width: 50px;
+    height: 50px;
+}
